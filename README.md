@@ -20,8 +20,12 @@
 - 📫 How to reach me **sirigiriveni@gmail.com**
 
 - 📄 Know about my experiences [i am a fresher](i am a fresher)
+- <img
+src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width=200><br>
 
 - ⚡ Fun fact **i love to think more when iam free so that i can invent a technology with unique approach**
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGxsYjg4Nnd6bzJvZDZxNnBuamFka3YzeW83cWFqNzV3M3diN2xkYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZIPr76px85PfSslMyZ/200w.gif" width=200/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +43,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirigiriveni&" alt="sirigiriveni" /></p>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
-<br><br>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGxsYjg4Nnd6bzJvZDZxNnBuamFka3YzeW83cWFqNzV3M3diN2xkYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZIPr76px85PfSslMyZ/200w.gif" width=400/>
