@@ -1,3 +1,4 @@
+![logo](https://github.com/sirigiriveni/sirigiriveni/blob/main/WhatsApp%20Image%202026-08-24%20at%2010.08.58%20AM.png)
 <h1 align="center">Hi 👋, I'm sirigiriveni</h1>
 <h3 align="center">iam passionate to invent a exist technology with unique approach from India</h3>
 
